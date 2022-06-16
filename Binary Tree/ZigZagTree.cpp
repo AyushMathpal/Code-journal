@@ -1,3 +1,5 @@
+//WATCHED SOLUTION 
+
 
 void zizagtraversal(Node<int>* root)
 {
@@ -13,7 +15,7 @@ void zizagtraversal(Node<int>* root)
     currentlevel.push(root);
  
     // check if stack is empty  
-  #WATCHED SOLUTION  
+   
   bool lefttoright = true;
     while (!currentlevel.empty()) {
  
